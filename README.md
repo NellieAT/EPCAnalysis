@@ -1,2 +1,6 @@
 # EPCAnalysis
-Cleaning raw EPC data for England and Wales, providing visualisations to understand trends across domestic and commercial buildings 
+
+The Energy Performance Certificates dataset was updated on 30 Nov 2023 and includes certificates issued up to and including 31 Oct 2023. 
+Data source: https://epc.opendatacommunities.org/domestic/search
+
+Summary of Findings:
